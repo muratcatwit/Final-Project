@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>JavaFXExample2</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/javafcex/IMG_7741 2.jpg</name>
+			<type>1</type>
+			<location>/Users/christlermurat/Downloads/IMG_7741 2.jpg</location>
+		</link>
+		<link>
+			<name>src/javafcex/IMG_7741 3.jpg</name>
+			<type>1</type>
+			<location>/Users/christlermurat/Downloads/IMG_7741 3.jpg</location>
+		</link>
+		<link>
+			<name>src/javafcex/IMG_7741 4.jpg</name>
+			<type>1</type>
+			<location>/Users/christlermurat/Downloads/IMG_7741 4.jpg</location>
+		</link>
+		<link>
+			<name>src/javafcex/IMG_7741 5.jpg</name>
+			<type>1</type>
+			<location>/Users/christlermurat/Downloads/IMG_7741 5.jpg</location>
+		</link>
+		<link>
+			<name>src/javafcex/IMG_7741 6.jpg</name>
+			<type>1</type>
+			<location>/Users/christlermurat/Downloads/IMG_7741 6.jpg</location>
+		</link>
+		<link>
+			<name>src/javafcex/IMG_7741.jpg</name>
+			<type>1</type>
+			<location>/Users/christlermurat/Downloads/IMG_7741.jpg</location>
+		</link>
+	</linkedResources>
+</projectDescription>
