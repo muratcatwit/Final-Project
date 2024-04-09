@@ -91,7 +91,7 @@ public class HelloWorld extends Application {
 	      Scene scene2 = new Scene(grid, 300, 275);
 	      s.setScene(scene2);
 	      
-	      Image image=new Image("file:///Users/christlermurat/Downloads/IMG_7741%206.jpg");
+	      Image image=new Image("file:///Users/christlermurat/git/repository4/JavaFXExample2/Images/IMG_7741%206.jpg");
 	      ImageView imageView=new ImageView(image);
 	      
 	      imageView.setFitHeight(50);
@@ -99,7 +99,7 @@ public class HelloWorld extends Application {
 	      imageView.setX(50);
 	      imageView.setY(150);
 	      
-	      Image image2=new Image("file:///Users/christlermurat/Downloads/IMG_7741%205.jpg");
+	      Image image2=new Image("file:///Users/christlermurat/git/repository4/JavaFXExample2/Images/IMG_7741%205.jpg");
 	      ImageView imageView2=new ImageView(image2);
 	      
 	      imageView2.setFitHeight(50);
@@ -107,7 +107,7 @@ public class HelloWorld extends Application {
 	      imageView2.setX(300);
 	      imageView2.setY(150);
 	      
-	      Image image3=new Image("file:///Users/christlermurat/Downloads/IMG_7741%203.jpg");
+	      Image image3=new Image("file:///Users/christlermurat/git/repository4/JavaFXExample2/Images/IMG_7741%203.jpg");
 	      ImageView imageView3=new ImageView(image3);
 	      
 	      imageView3.setFitHeight(50);
@@ -116,7 +116,7 @@ public class HelloWorld extends Application {
 	      imageView3.setY(150);
 	      imageView3.setVisible(false);
 	      
-	      Image image4=new Image("file:///Users/christlermurat/Downloads/IMG_7741%204.jpg");
+	      Image image4=new Image("file:///Users/christlermurat/git/repository4/JavaFXExample2/Images/IMG_7741%204.jpg");
 	      ImageView imageView4=new ImageView(image4);
 	      
 	      imageView4.setFitHeight(50);
@@ -125,7 +125,7 @@ public class HelloWorld extends Application {
 	      imageView4.setY(150);
 	      imageView4.setVisible(false);
 	      
-	      Image image5=new Image("file:///Users/christlermurat/Downloads/IMG_7741%202.jpg");
+	      Image image5=new Image("file:///Users/christlermurat/git/repository4/JavaFXExample2/Images/IMG_7741%202.jpg");
 	      ImageView imageView5=new ImageView(image5);
 	      
 	      imageView5.setFitHeight(50);
@@ -134,7 +134,7 @@ public class HelloWorld extends Application {
 	      imageView5.setY(150);
 	      imageView5.setVisible(false);
 	      
-	      Image image6=new Image("file:///Users/christlermurat/Downloads/IMG_7741.jpg");
+	      Image image6=new Image("file:///Users/christlermurat/git/repository4/JavaFXExample2/Images/IMG_7741.jpg");
 	      ImageView imageView6=new ImageView(image6);
 	      
 	      imageView6.setFitHeight(50);
